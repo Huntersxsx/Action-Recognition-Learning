@@ -1,0 +1,1 @@
+下载预训练好的C3D模型放在目录中：[GoogleDrive](https://drive.google.com/file/d/19NWziHWh1LgCcHU34geoKwYezAogv9fX/view)，[百度云](https://pan.baidu.com/s/1saNqGBkzZHwZpG-A5RDLVw)
